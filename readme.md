@@ -11,7 +11,7 @@ ls -la \\List all Files and folders
 git status \\ Get status of Files and folders
 notepad++ readme.md \\Edit read.md File using Notepad ++
 git status \\ Get status of Files and folders
-git add readme.md \\ add readme.md to Git
+git add readme.md \\ add changes made on  readme.md file to Git
 git status \\ Get status of Files and folders
 git commit -m "First commit to Git" \\Commit changes to master Brance with Message "First commit to Git"
 git status \\ Get status of Files and folders to see status of Files and folders 
